@@ -5,8 +5,10 @@ The motivation of this project is solely based on the purpose of learning python
 ## Requirements
 
 ## Technologies
+* [Python](https://www.python.org/about/)
 
 ## Instructions
+* After cloning the repository, follow the instructions bellow:
 
 ## Improvements
 * Use another framework, like Django to explore another resources;
